@@ -58,5 +58,4 @@ fprintf('Total samples: %d\n', length(x_sampled));
 fprintf('Total bits: %d\n', length(bitstream)); 
 
 
-image
-Screenshot 2025-09-09 161156.png
+![image](/images/ss1.png)
